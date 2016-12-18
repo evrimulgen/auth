@@ -1,4 +1,4 @@
-# auth-app
+# auth
 A React Native application using Firebase for authentication.
 
 ## Source
